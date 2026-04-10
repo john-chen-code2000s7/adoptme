@@ -1,3 +1,6 @@
+<img width="250" height="55" alt="image" src="https://github.com/user-attachments/assets/56673ebe-97a4-48d9-8662-f9b07a532d5e" />
+
+
 # 🐾 Adopt Me Script 🐱 Unlock New Features in Roblox Adopt Me with This Powerful Script!
 
 ![Game Version](https://img.shields.io/badge/Roblox-Adopt--Me-EB4C5A?style=for-the-badge&logo=roblox&logoColor=white)
